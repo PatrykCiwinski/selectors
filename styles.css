@@ -1,0 +1,13 @@
+
+div{ align-content: center;
+vertical-align: bottom;display: flex; justify-content: center;}
+button{font-size: 28px;font-family: Times New Roman,
+     Helvetica, sans-serif;
+    }
+.first{
+    background-color: black;
+    color: white;
+}
+.second{
+    background-color: yellow;
+}
